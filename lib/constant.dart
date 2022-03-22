@@ -1,0 +1,9 @@
+const baseUrl = "http://192.168.43.198:8000/api";
+const loginUrl = baseUrl + '/login';
+const registerUrl = baseUrl + '/register';
+const postUrl = baseUrl + '/posts';
+const userUrl = baseUrl + '/users';
+const ImageUrl = "http://192.168.43.198:8000/";
+const serverError = "Server error";
+const unauthorized = "Unauthorized";
+const somethingWentWrong = " Sorry something went wrong sorry";
